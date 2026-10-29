@@ -1,0 +1,4 @@
+retail_sales_cleaned.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
