@@ -1,5 +1,6 @@
 # Retail-Sales-Analysis
-
+## Access Project Data
+https://drive.google.com/drive/folders/1ewYaybqicZG6LwFeFBavAi9g4gUV3tip
 ## Project Overview
 The Retail Sales Analysis Dashboard is a data analytics project developed using Microsoft Power BI. It helps analyze retail sales data and convert raw data into meaningful business insights through interactive visualizations.
 
